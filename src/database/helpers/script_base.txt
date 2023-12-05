@@ -1,0 +1,3 @@
+insert into empresa (nombreempresa, imagenempresa) values ('Labs', 'https://res.cloudinary.com/epamlabs/image/upload/v1671949698/images/ygobnernrsgc1yazsx9q.png');
+
+insert into usuarios (nombreusuario, apellidousuario, nickusuario, contrasenausuario, tipousuario, estadousuario) values ('Usuario', 'Administrador', 'Admin', 'Admin123', 'Administrador', 'Activo');
